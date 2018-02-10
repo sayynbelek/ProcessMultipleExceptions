@@ -1,0 +1,6 @@
+Z:\ProcessMultipleExceptions\ProcessMultipleExceptions\bin\Debug\ProcessMultipleExceptions.exe.config
+Z:\ProcessMultipleExceptions\ProcessMultipleExceptions\bin\Debug\ProcessMultipleExceptions.exe
+Z:\ProcessMultipleExceptions\ProcessMultipleExceptions\bin\Debug\ProcessMultipleExceptions.pdb
+Z:\ProcessMultipleExceptions\ProcessMultipleExceptions\obj\Debug\ProcessMultipleExceptions.csprojResolveAssemblyReference.cache
+Z:\ProcessMultipleExceptions\ProcessMultipleExceptions\obj\Debug\ProcessMultipleExceptions.exe
+Z:\ProcessMultipleExceptions\ProcessMultipleExceptions\obj\Debug\ProcessMultipleExceptions.pdb
